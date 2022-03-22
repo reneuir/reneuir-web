@@ -4,7 +4,6 @@ plugins:
 color-scheme: auto
 title: ReNeuIR
 description: Workshop on Reaching Efficiency in Neural Information Retrieval
-email: organizers [at] reneuir [dot] org
 show_downloads: false
 
 sidebar:
