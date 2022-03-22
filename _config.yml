@@ -1,4 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins: jekyll-include-cache
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 title: ReNeuIR
 description: Workshop on Reaching Efficiency in Neural Information Retrieval
