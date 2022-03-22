@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: BDHU/minimalist
+plugins:
+  - jekyll-remote-theme
+color-scheme: auto
 title: ReNeuIR
 description: Workshop on Reaching Efficiency in Neural Information Retrieval
 

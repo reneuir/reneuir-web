@@ -1,3 +1,10 @@
+{% case site.color-scheme %}
+  {% when "", nil, false, 0, empty %}
+    {% assign ColorScheme = "auto" %}
+  {% else %}
+    {% assign ColorScheme = site.color-scheme %}
+{% endcase %}
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -6,52 +13,53 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
+
+    <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+    <link rel="preload" href="{{site.logo | relative_url}}" as="image">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-  </head>
+    </head>
+
   <body>
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <div class="sidebar">
+        <header>
+          {% if site.logo %}
+            <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo">
+          {% endif %}
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+          {% if site.blank_title %}
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          {% else %}
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+          {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+          {% if site.email %}
+            <p class="addr"><i class="fa-regular fa-envelope"></i>&nbsp;{{ site.email }}</p>
+          {% endif %}
 
-	<div class="link-wrapper">
-	  <style scoped>
-	    ul.link a {
-	      color:var(--clr-h1-and-bold);
-	      text-decoration:none;
-	    }
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-	    ul.link a:hover, a:focus {
-	      color: var(--clr-a-text-hvr);
-	    }
+          {% include sidebar.html %}
 
-	    ul.link {
-		list-style: none;
-	    }
-	  </style>
-	  <ul class="link">
-	    {%- for platform in site.sidebar %}
-	    <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
-	    {%- endfor %}
-	  </ul>
-	</div>
-      </header>
+        </header>
+	{% include links-mobile.html %}
+
+        <div class="sidebar-footer">
+          {%- include footer.html -%}
+        </div>
+      </div>
       <section>
 
-	{{ content }}
+      {{ content }}
 
       </section>
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {%- include footer.html -%}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
