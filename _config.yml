@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: ReNeuIR
 description: Workshop on Reaching Efficiency in Neural Information Retrieval
+
+sidebar:
+  - name: Twitter
+    icon: <i class="fa-brands fa-twitter"></i>
+    link: https://twitter.com/ReNeuIRWorkshop

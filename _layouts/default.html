@@ -22,6 +22,24 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+	<div class="link-wrapper">
+	  <style scoped>
+	    ul.link a {
+	      color:var(--clr-h1-and-bold);
+	      text-decoration:none;
+	    }
+
+	    ul.link a:hover, a:focus {
+	      color: var(--clr-a-text-hvr);
+	    }
+	  </style>
+	  <ul class="link">
+	    {%- for platform in site.sidebar %}
+	    <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
+	    {%- endfor %}
+	  </ul>
+	</div>
       </header>
       <section>
 
