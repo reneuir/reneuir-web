@@ -1,6 +1,6 @@
 # Organizing Committee
 
-**Sebastian Bruch**
+**Sebastian Bruch** is a staff research scientist at Pinecone.
 
 **Claudio Lucchese** is a professor with the Università Ca’
 Foscari di Venezia - Department of Environmental Sciences,
