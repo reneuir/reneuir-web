@@ -1,3 +1,5 @@
+![logo](/assets/img/logo.png "")
+
 The ReNeuIR Workshop aims to foster discussion and collaboration
 on holistic evaluation of methods in the age of neural information
 retrieval (NIR), noting that efficacy matters but so does the computational
