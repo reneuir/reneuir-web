@@ -33,21 +33,29 @@ interpretability, or robustness; and
 
 ## Important Dates
 
-Submission deadline: ~~Friday, April 22, 2022~~ **Friday, April 29, 2022** (Extended)
+Submission deadline: ~~Friday, April 22, 2022~~ **Sunday, May 8, 2022** (Extended)
 
-Notification of acceptance: **Monday, May 23, 2022**
+Notification of acceptance: **Friday, June 10, 2022**
 
 Workshop: **Friday, Jul 15, 2022**
 
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
-## Submission Guidelines, Anonymity, and Desk Rejection Policy
+## Submission Guidelines and Review Process
 
-We adopt and observe the submission guidelines, anonymity,
-and desk rejection policies of SIGIR 2022 Full Paper Track.
-Authors must refer to the SIGIR Call for Full Papers for more information.
+All submissions will go through a single-blind peer review process
+by the program committee and judged on the basis of their relevance
+to the theme of the workshop. All submissions must be in English and
+formatted according to the latest ACM SIG proceedings template.
+Authors must refer to the SIGIR Call for Papers for more information.
 
-Submissions must be anonymous and should be submitted electronically
+Unlike the main conference we do NOT require submissions to be anonymous.
+Furthermore, as we do not publish accepted papers in the conference proceedings,
+we welcome extensions or revisions of published articles and those pending publication.
+
+Articles may be between 4 and 9 pages long, excluding references.
+
+Submissions should be made electronically
 via [EasyChair](https://easychair.org/conferences/?conf=reneuir2022)
 (https://easychair.org/conferences/?conf=reneuir2022).
 
