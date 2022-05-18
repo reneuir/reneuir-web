@@ -11,7 +11,22 @@ Informatics and Statistics (DAIS).
 in Pisa, Italy.
 
 ## Program Committee
-[TBD]
+
+**Claudia Hauff** Delft University of Technology
+
+**Amir Ingber** Pinecone
+
+
+**Sean MacAvaney** University of Glasgow
+
+**Bhaskar Mitra** Microsoft
+
+**Tommaso di Noia** Polytechnic University of Bari
+
+**Hamed Zamani** University of Massachusetts Amherst
+
+**Min Zhang** Tsinghua University
+
 
 ## Logo Design
 
