@@ -35,7 +35,7 @@ interpretability, or robustness; and
 
 Submission deadline: ~~Friday, April 22, 2022~~ **Sunday, May 8, 2022** (Extended)
 
-Notification of acceptance: **Friday, June 10, 2022**
+Notification of acceptance: ~~Friday, June 10, 2022~~ **Wednesday, June 15, 2022**
 
 Workshop: **Friday, Jul 15, 2022**
 
