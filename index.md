@@ -21,3 +21,7 @@ to comparable quality.
 learnt from past information retrieval studies and encourage a multi-faceted
 evaluation of NIR models from quality to efficiency, and
 the design of reusable benchmarks and standardized metrics.
+
+# Sponsors
+
+[![pinecone.io](assets/img/pinecone.png)](http://pinecone.io)
