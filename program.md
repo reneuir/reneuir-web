@@ -31,10 +31,10 @@ Each paper is given 20 minutes for presentation including Q&A.
     Alexander Buchholz (*Amazon*), Jan Malte Lichtenberg (*Amazon*), Giuseppe Di Benedetto (*Amazon*), Yannik Stein (*Amazon*), Vito Bellini (*Amazon*) and Matteo Ruffini (*Amazon*).
   - "Moving Stuff Around: A study on efficiency of moving documents into memory for Neural IR models."
     Arthur Câmara (*TU Delft*) and Claudia Hauff (*TU Delft*)
-  - "An Efficiency Study for SPLADE Models."
-    Carlos Lassance (*Naver Labs Europe*) and Stéphane Clinchant (*Naver Labs Europe*).
   - "From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective."
     Thibault Formal (*Naver Labs Europe*), Carlos Lassance (*Naver Labs Europe*), Benjamin Piwowarski (*Sorbonne Université*), Stéphane Clinchant (*Naver Labs Europe*)
+  - "An Efficiency Study for SPLADE Models."
+    Carlos Lassance (*Naver Labs Europe*) and Stéphane Clinchant (*Naver Labs Europe*).
 
 * Session III
   - "Faster Learned Sparse Retrieval with Guided Traversal."
