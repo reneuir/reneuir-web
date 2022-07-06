@@ -23,8 +23,8 @@ Each paper is given 20 minutes for presentation including Q&A.
 * Session I
   - "Fast Passage Re-ranking with Contextualized Exact Term Matching and Efficient Passage Expansion."
     Shengyao Zhuang (*University of Queensland*) and Guido Zuccon (*University of Queensland*).
-  - "SEINE: SEgment-based Indexing for NEural information retrieval."
-    Sibo Dong (*Georgetown University*), Justin Goldstein (*Georgetown University*) and Grace Hui Yang (*Georgetown University*).
+  - "Faster Learned Sparse Retrieval with Guided Traversal."
+    Antonio Mallia (*New York University*), Joel Mackenzie (*University of Queensland*), Torsten Suel (*New York University*), Nicola Tonellotto (*University of Pisa*).
 
 * Session II
   - "Low-variance estimation in the Plackett-Luce model via quasi-Monte Carlo sampling."
@@ -37,8 +37,7 @@ Each paper is given 20 minutes for presentation including Q&A.
     Carlos Lassance (*Naver Labs Europe*) and Stéphane Clinchant (*Naver Labs Europe*).
 
 * Session III
-  - "Faster Learned Sparse Retrieval with Guided Traversal."
-    Antonio Mallia (*New York University*), Joel Mackenzie (*University of Queensland*), Torsten Suel (*New York University*), Nicola Tonellotto (*University of Pisa*).
+  - "SEINE: SEgment-based Indexing for NEural information retrieval."
+    Sibo Dong (*Georgetown University*), Justin Goldstein (*Georgetown University*) and Grace Hui Yang (*Georgetown University*).
   - "Reduce, Reuse, Recycle: Green Information Retrieval Researchs."
     Harry Scells (*University of Queensland*), Shengyao Zhuang (*University of Queensland*), Guido Zuccon (*University of Queensland*).
-
