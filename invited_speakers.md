@@ -4,12 +4,16 @@ We are thrilled to have Hamed Zamani and Bhaskar Mitra as
 keynote speakers at the event. Below you will find the title
 and abstract of their talks as well as a short bio for each speaker.
 
+-------
+
 ## TBD
 
 **Abstract:**
 
-by **Hamed Zamani**.
+**Speaker:** **Hamed Zamani**
 
+
+-------
 
 ## Efficient Machine Learning and Machine Learning for Efficiency in Information Retrieval
 
