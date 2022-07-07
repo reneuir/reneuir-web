@@ -41,3 +41,14 @@ Each paper is given 20 minutes for presentation including Q&A.
     Sibo Dong (*Georgetown University*), Justin Goldstein (*Georgetown University*) and Grace Hui Yang (*Georgetown University*).
   - "Reduce, Reuse, Recycle: Green Information Retrieval Researchs."
     Harry Scells (*University of Queensland*), Shengyao Zhuang (*University of Queensland*), Guido Zuccon (*University of Queensland*).
+
+
+## Panelists
+
+**Bhaskar Mitra** Microsoft
+
+**Nils Reimers** HuggingFace
+
+**Hamed Zamani** University of Massachusetts Amherst
+
+**Guido Zuccon** University of Queensland
