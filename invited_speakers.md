@@ -6,11 +6,11 @@ and abstract of their talks as well as a short bio for each speaker.
 
 -------
 
-## TBD
+## Efficient Neural Models for Representing, Indexing, and Retrieving Documents
 
-**Abstract:**
+**Abstract:** Deep learning has transformed information retrieval research in the last few years. Many effective neural information retrieval models contain millions or billions of parameters and are computationally expensive. In this talk, I will present some solutions for improving the efficient of neural information retrieval models by focusing on efficient representation of long documents and efficient indexing and retrieval of documents using neural models. At the end, I will go beyond typical problems that have been addressed by the information retrieval community and discuss the potential impact of efficient neural retrieval models on machine learning research.
 
-**Speaker:** **Hamed Zamani**
+**Speaker:** **Hamed Zamani** is an Assistant Professor in the Manning College of Information and Computer Sciences (CICS) at the University of Massachusetts Amherst (UMass), where he also serves as the Associate Director of the Center for Intelligent Information Retrieval (CIIR). Prior to UMass, he was a Researcher at Microsoft. In 2019, he received his Ph.D. from UMass under supervision of W. Bruce Croft and received the CICS Outstanding Dissertation Award. His research focuses on developing and evaluating statistical and machine learning models with application to (interactive) information access systems including search engines, recommender systems, and question answering. He is an active member of the information retrieval community and has published over 75 peer-reviewed articles. He is mostly known for his work on neural information retrieval and conversational search. He is a recipient of NSF CAREER Award and his papers have received awards from ICTIR 2019 and CIKM 2020. He has organized multiple workshops at SIGIR, WSDM, and RecSys and has served as the Program Committee Co-Chair for SIGIR 2022 - Short Paper Track.
 
 
 -------

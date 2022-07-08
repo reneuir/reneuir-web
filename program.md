@@ -49,6 +49,4 @@ Each paper is given 20 minutes for presentation including Q&A.
 
 **Nils Reimers** HuggingFace
 
-**Hamed Zamani** University of Massachusetts Amherst
-
 **Guido Zuccon** University of Queensland
