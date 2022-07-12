@@ -57,4 +57,6 @@ Each paper is given 20 minutes for presentation including Q&A.
 
 **Nils Reimers** HuggingFace
 
+**Grace Hui Yang** Georgetown University
+
 **Guido Zuccon** University of Queensland
