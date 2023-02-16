@@ -3,29 +3,12 @@
 ## Chairs
 **Sebastian Bruch** is a staff research scientist at Pinecone.
 
-**Claudio Lucchese** is a professor with the Università Ca’
-Foscari di Venezia - Department of Environmental Sciences,
-Informatics and Statistics (DAIS).
+**Joel Mackenzie** is a lecturer at the University of Queensland in Brisbane, Australia.
 
-**Franco Maria Nardini** is a senior researcher with ISTI-CNR
-in Pisa, Italy.
+**Maria Maistro** is a tenure track assistant professor at the Department of Computer Science, 
+University of Copenhagen (DIKU)
 
-## Program Committee
-
-**Claudia Hauff** Delft University of Technology
-
-**Amir Ingber** Pinecone
-
-
-**Sean MacAvaney** University of Glasgow
-
-**Bhaskar Mitra** Microsoft
-
-**Tommaso di Noia** Polytechnic University of Bari
-
-**Hamed Zamani** University of Massachusetts Amherst
-
-**Min Zhang** Tsinghua University
+**Franco Maria Nardini** is a senior researcher with ISTI-CNR in Pisa, Italy.
 
 
 ## Logo Design
