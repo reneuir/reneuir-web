@@ -1,4 +1,4 @@
-![logo](/assets/img/logo.png)
+![logo](/assets/img/2022-logo.png)
 
 The ReNeuIR Workshop aims to foster discussion and collaboration
 on holistic evaluation of methods in the age of neural information
