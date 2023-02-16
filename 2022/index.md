@@ -1,4 +1,4 @@
-![logo](assets/img/logo.png)
+![logo](/assets/img/logo.png)
 
 The ReNeuIR Workshop aims to foster discussion and collaboration
 on holistic evaluation of methods in the age of neural information
@@ -24,4 +24,4 @@ the design of reusable benchmarks and standardized metrics.
 
 # Sponsors
 
-[![pinecone.io](assets/img/pinecone.png)](http://pinecone.io)
+[![pinecone.io](/assets/img/pinecone.png)](http://pinecone.io)

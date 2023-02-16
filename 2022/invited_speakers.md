@@ -8,7 +8,7 @@ and abstract of their talks as well as a short bio for each speaker.
 
 ## Efficient Neural Models for Representing, Indexing, and Retrieving Documents
 
-([slides](assets/slides/ReNeuIR2022-keynote-hamed.pdf))
+([slides](/assets/slides/ReNeuIR2022-keynote-hamed.pdf))
 
 **Abstract:** Deep learning has transformed information retrieval research in the last few years. Many effective neural information retrieval models contain millions or billions of parameters and are computationally expensive. In this talk, I will present some solutions for improving the efficient of neural information retrieval models by focusing on efficient representation of long documents and efficient indexing and retrieval of documents using neural models. At the end, I will go beyond typical problems that have been addressed by the information retrieval community and discuss the potential impact of efficient neural retrieval models on machine learning research.
 
@@ -19,7 +19,7 @@ and abstract of their talks as well as a short bio for each speaker.
 
 ## Efficient Machine Learning and Machine Learning for Efficiency in Information Retrieval
 
-([slides](assets/slides/ReNeuIR2022-keynote-bhaskar.pdf))
+([slides](/assets/slides/ReNeuIR2022-keynote-bhaskar.pdf))
 
 **Abstract:** Emerging machine learning approaches, including deep learning methods, for information retrieval (IR) have recently demonstrated significant improvements in accuracy of relevance estimation at the cost of increasing model complexity and corresponding rise in computational and environmental costs of training and inference. In web search, these costs are further compounded by the necessity to train on large-scale datasets, consume long documents as inputs, and retrieve relevant documents from web-scale collections within milliseconds in response to high volume query traffic. A typical playbook for developing deep learning models for IR involves largely ignoring efficiency concerns during model development and then later scaling these methods by either finding faster approximations of the same models or employing heuristics to reduce the input space over which these models operate. Domain knowledge about the specific IR task and deeper understanding of system design and data structures in whose context these models are deployed can significantly help with not only model simplification but also to inform data-structure specific machine learning model design. Alternatively, predictive machine learning can also be employed specifically to improve efficiency in large scale IR settings. In this talk, I will cover several case studies for both improving efficiency of machine learning models for IR as well as direct application of machine learning to improve retrieval efficiency, and conclude with a brief discussion on potential future directions for efficiency-sensitive benchmarking of machine learning models for IR.
 
