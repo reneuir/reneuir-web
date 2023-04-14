@@ -43,11 +43,11 @@ Submissions should be made electronically via [EasyChair](https://easychair.org/
 
 ## Important Dates
 
-Submission deadline: **Tuesday, April 18, 2023**
+Submission deadline: **April 18, 2023**
 
-Notification of acceptance: **Wednesday, May 31, 2023**
+Notification of acceptance: **May 31, 2023**
 
-Workshop: Friday, **Friday, Jul 28, 2023**
+Workshop: **Jul 27, 2023**
 
 All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
