@@ -1,6 +1,6 @@
 # Program
 
-ReNeuIR takes place on July 127, 2023. All times in the table below are according to the local time zone.
+ReNeuIR takes place on July 27, 2023. All times in the table below are according to the local time zone.
 
 | Time          | Agenda                                      |
 |---------------|---------------------------------------------|
