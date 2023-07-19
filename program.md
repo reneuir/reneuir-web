@@ -20,7 +20,7 @@ ReNeuIR takes place on July 27, 2023. All times in the table below are according
 Each paper is given 20 minutes for presentation including Q&A.
 
 - "Injecting Domain Adaptation with Learning-to-hash for Effective and Efficient Zero-shot Dense Retrieval."
-  Nandan Thakur, Nils Reimers, and Jimmy Lin. ([paper](assets/pdfs/ReNeuIR_2023_paper_7337))
+  Nandan Thakur, Nils Reimers, and Jimmy Lin. ([paper](assets/pdfs/ReNeuIR_2023_paper_7337.pdf))
 - "Towards Consistency Filtering-Free Unsupervised Learning for Dense Retrieval."
   Haoxiang Shi, Sumio Fujita, and Tetsuya Sakai.([paper](assets/pdfs/ReNeuIR_2023_paper_6010.pdf))
 - "The Information Retrieval Experiment Platform."
