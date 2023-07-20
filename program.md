@@ -34,3 +34,13 @@ Each paper is given 20 minutes for presentation including Q&A.
 - "A Static Pruning Study on Sparse Neural Retrievers." Carlos Lassance, Simon Lupart, Hervé Dejean, Stéphane Clinchant, Nicola Tonellotto. ([paper](https://arxiv.org/abs/2304.12702))
 - "Adapting Learned Sparse Retrieval for Long Documents." Thong Nguyen, Sean MacAvaney, Andrew Yates. ([paper](https://arxiv.org/abs/2305.18494))
 - "Efficient Neural Ranking using Forward Indexes and Lightweight Encoders." Jurek Leonhardt, Koustav Rudra, Megha Khosla, Abhijit Anand, Avishek Anand. ([paper](https://arxiv.org/abs/2110.06051))
+
+## TREC Track Proposal: An Efficiency-first Benchmark
+
+We present our initiative to create an _efficiency-first_ benchmark
+for (neural) Information Retrieval research. We seek the community's input on
+key details of the framework in an ideation and discussion session at the event.
+We invite you to read [this](assets/pdfs/ReNeuIR_2023_benchmark_proposal.pdf)
+short problem description prior to the workshop and
+ask you to kindly fill out [this](https://forms.gle/yDkmRZMJsB7LJXY76)
+questionnaire and share your thoughts with us.
