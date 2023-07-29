@@ -8,6 +8,8 @@ and abstract of Omar's talk as well as a short bio.
 
 ## From BM25 to (Col)BERT to LLMs: Navigating a Maturing Efficiency-Effectiveness Tradeoff Space in Neural IR
 
+**[Slides](assets/pdfs/ReNeuIR-keynote-v4-shared.pptx)**
+
 **Abstract:** The past five years have dramatically transformed the landscape of IR. What began as a focus on optimizing classical models like BM25 in multi-stage architectures has evolved quickly into working with neural models many orders of magnitude larger. This pivot ultimately continues IR's decades-long tradition of balancing efficiency with effectiveness, a focus that IR has long pioneered compared to adjacent fields.
 
 I'll start by quickly surveying the historical arc of the efficiency-effectiveness trade-offs in IR: from classical ranking models and inverted indexing, through the 1990s with top-k retrieval strategies like MaxScore, to the multi-stage ranking architectures and Block-Max methods of the early 2010s, and through the efficient neural encoders of the mid-2010s. Following this, I'll discuss the introduction of BERT encoders into IR in 2019 and 2020, which brought forward now-maturing paradigms like cross-encoders, bi-encoders, sparse representations, and late interaction.
