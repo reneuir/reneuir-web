@@ -1,42 +1,43 @@
 # Organizing Committee
 
 ## Chairs
-**Sebastian Bruch** is a staff research scientist at Pinecone.
+**Maik Fröbe** is a PhD student at the Friedrich-Schiller-Universität Jena, Germany.
 
 **Joel Mackenzie** is a lecturer at the University of Queensland in Brisbane, Australia.
 
-**Maria Maistro** is a tenure track assistant professor at the Department of Computer Science, 
-University of Copenhagen (DIKU)
+**Bhaskar Mitra** is a Principal Researcher at Microsoft Research.
 
 **Franco Maria Nardini** is a senior researcher with ISTI-CNR in Pisa, Italy.
 
+**Martin Potthast** holds the Chair of Intelligent Language Technologies at the Leipzig University, Germany.
 
 ## Program Committee
 
-**Luke Gallagher** RMIT University
+**Sohia Althammer** (Cohere)
 
-**Carlos Lassance** Naver Labs Europe
+**Sebastian Bruch** (Pinecone)
 
-**Xueguang Ma** University of Waterloo
+**Arthur Câmara** (Zeta Alpha)
 
-**Zhuyun Dai** Google
+**Zhuyun Dai** (Google)
 
-**Antonio Mallia** Amazon
+**Luke Gallagher** (RMIT University)
 
-**Matthias Petri** Amazon
+**Carlos Lassance** (Cohere)
 
-**Shengyao Zhuang** University of Queensland
+**Xueguang Ma** (University of Waterloo)
 
-**Andrew Yates** University of Amsterdam
+**Sean MacAvaney** (University of Glasgow)
 
-**Arthur Barbosa Camara** Delft University of Technology
+**Matthias Petri** (Amazon Alexa)
 
-**Harrisen Scells** Leipzig University
+**Harrisen Scells** (Leipzig University)
 
-**Salvatore Trani** ISTI-CNR
+**Salvatore Trani** (ISTI-CNR)
 
-**Sophia Althammer** TU Vienna
+**Andrew Yates** (University of Amsterdam)
 
+**Shengyao Zhuang** (University of Queensland)
 
 ## Logo Design
 
