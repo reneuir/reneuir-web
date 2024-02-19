@@ -1,13 +1,6 @@
-![logo](/assets/img/2023-logo.png)
+![logo](/assets/img/2024-logo.png)
 
-The second ReNeuIR Workshop will be co-located with SIGIR
-in Taipei, Taiwan, in July 2023. The event aims to foster
-discussion and collaboration  on holistic evaluation of
-methods in the age of neural information  retrieval (NIR),
-noting that efficacy matters but so does the computational
-cost incurred to achieve it. In particular, the workshop promotes
-the following notions and encourages the community to raise and
-debate questions on the following themes:
+The third ReNeuIR Workshop will be co-located with SIGIR in Washington D.C., USA, in July 2024. The 2024 edition of ReNeuIR has two calls: (1) for [scientific contributions](cfp.html), and (2) an [efficiency-oriented IR shared task](shared_task.html). The event aims to foster discussion and collaboration  on holistic evaluation of methods in the age of neural information  retrieval (NIR), noting that efficacy matters but so does the computational cost incurred to achieve it. In particular, the workshop promotes the following notions and encourages the community to raise and debate questions on the following themes:
 
 
 * **Justification**: We believe it is important to justify the ever-growing model complexity through empirical analysis.
