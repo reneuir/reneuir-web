@@ -13,31 +13,7 @@
 
 ## Program Committee
 
-**Sohia Althammer** (Cohere)
-
-**Sebastian Bruch** (Pinecone)
-
-**Arthur Câmara** (Zeta Alpha)
-
-**Zhuyun Dai** (Google)
-
-**Luke Gallagher** (RMIT University)
-
-**Carlos Lassance** (Cohere)
-
-**Xueguang Ma** (University of Waterloo)
-
-**Sean MacAvaney** (University of Glasgow)
-
-**Matthias Petri** (Amazon Alexa)
-
-**Harrisen Scells** (Leipzig University)
-
-**Salvatore Trani** (ISTI-CNR)
-
-**Andrew Yates** (University of Amsterdam)
-
-**Shengyao Zhuang** (University of Queensland)
+TBD
 
 ## Logo Design
 
