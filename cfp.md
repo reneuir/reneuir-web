@@ -50,5 +50,5 @@ Workshop: **July 18, 2024**
 All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
 ## Contact
-For any questions about paper submission you may contact the
-workshop organizers at reneuir2024 [at] easychair [dot] org.
+For any questions please do not hesitate to contact us via [the forum](https://www.tira.io/c/reneuir)
+or via mail at reneuir2024 [at] easychair [dot] org.
