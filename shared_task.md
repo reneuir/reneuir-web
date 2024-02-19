@@ -4,7 +4,11 @@ ReNeuIR 2024 will have an shared task that aims to collect and measure neural IR
 
 ## Synopsis
 
-Some more details
+The shared task invites retrieval pipelines (or parts thereof) that follow an expected pipeline to (1) index, (2) retrieve, (3) and re-rank different workloads sampled from [ir_datasets](https://ir-datasets.com/) while we monitor their execution in [TIREx](https://www.tira.io/tirex) with [Scaphandre](https://github.com/hubblo-org/scaphandre). Participants can submit their retrieval pipelines as source code repositories or as Docker images. We especially encourage code submissions where participants organize their code in (private) GitHub repositories and use prepared Github Actions to upload a submission to TIRA. The GitHub Actions dockerize a repository's code with other required resources and test if the created Docker image works on a small "unit test dataset". If that is the case, it is uploaded along with all metadata to TIRA.
+
+Within TIRA, we run the uploaded templates on different datasets derived from the MS~MARCO passage dataset. In doing so, we vary the number of queries and passages to be indexed to cover different workloads while monitoring their execution with Scaphandre. The execution happens within the TIRA sandbox, which ensures reproducibility (e.g., all dependencies must be installed in the Docker image), and keeps the test data (i.e., test queries and documents) secret, allowing different document and query distributions to be measured. The reuse of MS~MARCO lowers the barrier to entry, as a wide range of retrieval systems already exist for this test collection, allowing participants to focus on efficiency. With this in mind, for the first iteration of the shared task in 2024, we focus on submitting pre-trained systems that batch-process the entire dataset. After the shared task, we will make all collected run files together with Scaphandre traces of their executions available to foster the development of new
+
+
 
 ## Important Dates
 
@@ -18,14 +22,7 @@ All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
 ## Baselines
 
-
-[baselines](https://github.com/mam10eks/reneuir-code/tree/main/sigir24/baselines)
-
-[indexing](https://github.com/mam10eks/reneuir-code/tree/main/sigir24/baselines/indexing),
-
-[retrieval](https://github.com/mam10eks/reneuir-code/tree/main/sigir24/baselines/retrieval),
-
-[re-ranking](https://github.com/mam10eks/reneuir-code/tree/main/sigir24/baselines/re-ranking),
+We encourage submissions that follow an (1) index, (2) retrieve, (3) and re-rank pipeline where participants can also submit only parts of a complete pipeline (e.g., indexing and retrieval vs. re-ranking). We make [baselines available](https://github.com/mam10eks/reneuir-code/tree/main/sigir24/baselines), specifically for [(1) indexing](https://github.com/mam10eks/reneuir-code/tree/main/sigir24/baselines/indexing), [(2) retrieval](https://github.com/mam10eks/reneuir-code/tree/main/sigir24/baselines/retrieval), and [(3) re-ranking](https://github.com/mam10eks/reneuir-code/tree/main/sigir24/baselines/re-ranking).
 
 ## Submission Instructions
 
