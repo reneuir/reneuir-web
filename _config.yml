@@ -3,7 +3,7 @@ logo: /assets/img/2023-logo.png
 plugins:
   - jekyll-remote-theme
 color-scheme: auto
-title: ReNeuIR'23
+title: ReNeuIR'24
 description: Workshop on Reaching Efficiency in Neural Information Retrieval
 show_downloads: false
 
