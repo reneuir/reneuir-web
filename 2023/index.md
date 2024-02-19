@@ -23,6 +23,12 @@ from past IR studies and encourage a multi-faceted evaluation of NIR models
 from quality to efficiency to environmental impact, and the design of
 reusable models, benchmarks, and standardized metrics.
 
+More details on ReNeuIR 2023:
+
+* **[Invited Speakers](invited_speakers.html)**
+* **[Organizers](organization.html)**
+* **[Program](program.html)**
+* **[Call for Papers](cfp.html)**
 
 For information on past ReNeuIR workshops, visit the links below:
 
