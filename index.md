@@ -22,5 +22,5 @@ For information on past ReNeuIR workshops, visit the links below:
 * ReNeuIR 2022 at SIGIR in Madrid, Spain [[Homepage](/ReNeuIR-Test/2022/),
 [Report](https://dl.acm.org/doi/abs/10.1145/3582900.3582916)
 in [SIGIR Forum](https://sigir.org/wp-content/uploads/2023/01/p12.pdf)]
-* ReNeuIR 2023 at SIGIR in Madrid, Spain [[Homepage](/ReNeuIR-Test/2023/),
+* ReNeuIR 2023 at SIGIR in Taipei, Taiwan [[Homepage](/ReNeuIR-Test/2023/),
 [Report](https://doi.org/10.1145/3539618.3591922)]
