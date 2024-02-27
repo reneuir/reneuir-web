@@ -1,6 +1,6 @@
 # Shared Task
 
-ReNeuIR 2024 hosts a shared task to foster the development efficient neural IR systems.
+ReNeuIR 2024 hosts a shared task to foster the development of efficient neural IR systems.
 
 ## Synopsis
 
