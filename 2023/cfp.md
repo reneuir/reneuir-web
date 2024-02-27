@@ -1,6 +1,8 @@
 # Call for Papers
 
-The third workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) will be held at SIGIR 2024 in Washington with support for remote participation.
+The second workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR)
+will be held at SIGIR 2023 and, as with the main conference, is planned as a hybrid
+event—in person in Taipei, Taiwan, with support for remote participation.
 
 ## Topics of Interest
 
@@ -25,7 +27,7 @@ Unlike the main conference we do NOT require submissions to be anonymous.
 We welcome poster proposals of up to 6 pages long, and articles between 10 and 20 pages long, excluding references.
 
 Articles are expected to describe significant work towards efficient neural information access
-systems as described in the topics of interest. Furthermore, we welcome extensions or revisions of published articles.
+systems as described in the topics of interest.  Furthermore, we welcome extensions or revisions of published articles.
 
 Poster proposals are expected to describe work in progress, late-breaking results, new original ideas
 and research vision, or any work which is better communicated through a visual, interactive format.
@@ -37,18 +39,18 @@ and judged on the basis of their relevance to the theme of the workshop and the 
 their technical contribution. All accepted papers will be published in the workshop
 proceedings (CEUR proceedings).
 
-Submissions should be made electronically via [EasyChair](https://easychair.org/conferences/?conf=reneuir2024).
+Submissions should be made electronically via [EasyChair](https://easychair.org/conferences/?conf=reneuir2023).
 
 ## Important Dates
 
-Submission deadline: **April 25, 2024**
+Submission deadline: **~~April 18, 2023~~** [Extended] May 2, 2023 
 
-Notification of acceptance: **May 31, 2024**
+Notification of acceptance: **~~May 31, 2023~~** June 14, 2023
 
-Workshop: **July 18, 2024**
+Workshop: **Jul 27, 2023**
 
 All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
 ## Contact
-For any questions please do not hesitate to contact us via [the forum](https://www.tira.io/c/reneuir)
-or via mail at reneuir2024 [at] easychair [dot] org.
+For any questions about paper submission you may contact the
+workshop organizers at reneuir2023 [at] easychair [dot] org.
