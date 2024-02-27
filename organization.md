@@ -9,11 +9,11 @@
 
 **Franco Maria Nardini** is a senior researcher with ISTI-CNR in Pisa, Italy.
 
-**Martin Potthast** holds the Chair of Intelligent Language Technologies at the Leipzig University, Germany.
+**Martin Potthast** is Chair of Intelligent Language Technologies at Leipzig University, Germany.
 
 ## Program Committee
 
-TBD
+TBA
 
 ## Logo Design
 
