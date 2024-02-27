@@ -7,6 +7,7 @@ The third workshop on Reaching Efficiency in Neural Information Retrieval (ReNeu
 We welcome both "full" and "poster" submissions on the following topics,
 including but not limited to:
 
+* [ReNeuIR 2024 will host an efficiency oriented shared task](shared_task.html), all participants are invited to submit papers describing their approches and evaluating them.
 * Novel Neural IR (NIR) models that reach competitive quality but are designed to provide fast training or fast inference;
 * Efficient NIR models for decentralized IR tasks such as conversational search; 
 * Strategies to speed up training or inference of existing NIR models; 
