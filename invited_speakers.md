@@ -1,4 +1,4 @@
 # Keynote Speakers
 
-TBA: ReNeuIR will have two keynote talks that we will anounce soon.
+ReNeuIR will have two keynote talks that we will announce soon.
 
