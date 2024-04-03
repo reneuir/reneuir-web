@@ -1,6 +1,6 @@
 # Call for Papers
 
-The third workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) will be held at SIGIR 2024 in Washington with support for remote participation.
+The third workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) will be held at SIGIR 2024 in Washington.
 
 ## Topics of Interest
 
