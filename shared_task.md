@@ -24,7 +24,7 @@ All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
 ## Baselines
 
-We encourage submissions that implement a pipeline with the steps (1) index, (2) retrieve, (3) and re-rank, where participants can also submit only parts of a complete pipeline (e.g., indexing and retrieval vs. re-ranking). We make [baselines available](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines), specifically for [(1) indexing](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines/indexing), [(2) retrieval](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines/retrieval), and [(3) re-ranking](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines/re-ranking).
+We encourage submissions that implement a pipeline with the steps (1) index, (2) retrieve, (3) and re-rank, where participants can also submit only parts of a complete pipeline (e.g., indexing and retrieval vs. re-ranking). We make [baselines available](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines), specifically for (1) indexing, (2) retrieval, and (3) re-ranking.
 
 ## Submission Instructions
 
