@@ -42,7 +42,7 @@ Submissions should be made electronically via [EasyChair](https://easychair.org/
 
 ## Important Dates
 
-Submission deadline: **May 15, 2024**
+Submission deadline: ~~**May 15, 2024**~~ **May 22, 2024**
 
 Notification of acceptance: **June 7, 2024**
 
