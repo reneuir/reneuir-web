@@ -49,5 +49,8 @@ The paper is given 15 minutes for presentation including Q&A.
 - "PLAID SHIRTTT for Large-Scale Streaming Dense Retrieval"
   Dawn Lawrie, Efsun Kayi, Eugene Yang, James Mayfield, Douglas W. Oard.
 
+- "A Reproducibility Study of PLAID"
+  Sean MacAvaney, Nicola Tonellotto.
+
 - "Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations"
   Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, and Rossano Venturini.
