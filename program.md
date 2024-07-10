@@ -11,12 +11,13 @@ ReNeuIR is colocated with [SIGIR 2024 in Washington D.C., USA](https://sigir-202
 | 11:00 - 12:30 | Joint Poster Session                                                      |
 | 12:30 - 13:30 | Lunch Break                                                               |
 | 13:30 - 14:30 | Keynote by [Qi Chen](invited_speakers) (45 minutes + 15 minutes for QA)   |
-| 14:30 - 15:30 | Paper Presentations                                                       |
-| 15:30 - 16:00 | Coffee Break                                                              |
+| 14:30 - 15:00 | Paper Presentations                                                       |
+| 15:00 - 15:30 | Coffee Break                                                              |
+| 15:30 - 16:00 | Paper Presentations                                                       |
 | 16:00 - 17:30 | Invited Talks + Shared Task Initiative                                    |
 
 
-## Detailed Schedule for the Paper Presentations (14:30 - 15:30)
+## Detailed Schedule for the Paper Presentations (14:30 - 15:00)
 
 Each paper is given 15 minutes for presentation including Q&A.
 
@@ -25,6 +26,8 @@ Each paper is given 15 minutes for presentation including Q&A.
 
 - "Top-Down Partitioning for Efficient List-Wise Ranking"
   Andrew Parry, Sean MacAvaney, and Debasis Ganguly.
+
+## Detailed Schedule for the Paper Presentations (15:30 - 16:00)
 
 - "Efficient course recommendations with T5-based ranking and summarization"
   Thijmen Bijl, Niels van Weeren, and Suzan Verberne.
@@ -35,7 +38,7 @@ Each paper is given 15 minutes for presentation including Q&A.
 
 ## Detailed Schedule for the Invited Presentations (16:00 - 17:30)
 
-The paper is given 15 minutes for presentation including Q&A.
+Each paper is given 15 minutes for presentation including Q&A.
 
 - "Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models"
   Shengyao Zhuang, Honglei Zhuang, Bevan Koopman, and Guido Zuccon.
