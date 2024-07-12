@@ -7,6 +7,11 @@ keynote speakers for ReNeuIR 2024! Below you will a short bio for each speaker; 
 
 ## Zhuyun Dai
 
+### LLM-Powered Retrieval: From Distillation to New Architectures
+
+### Abstract
+Information retrieval systems are essential for accessing the vast knowledge stored in large corpora, but current models often fall short when it comes to reasoning, following instructions, and generalizing to new distributions. This talk delves into our research aimed at enhancing retrieval models by harnessing the power of large language models (LLMs). We first tackle the challenge of generalizing neural retrievers across different domains. We showcase how LLM distillation can be leveraged to achieve this, enabling versatile neural retrievers like the Gecko text embeddings API. Next, we introduce XTR, a novel multi-vector retrieval approach that brings closer the architectures of LLMs and retrievers. XTR significantly improved efficiency compared to previous token-level retrieval methods. Finally, we explore the potential of long-context LLMs to revolutionize the future of retrieval by digesting the entire corpus as a prompt. To evaluate this exciting frontier, we introduce LOFT, a new benchmark specifically designed to assess the impact of long-context models retrieval, retrieval-augmented generation (RAG), and database querying.
+
 #### Bio
 Zhuyun Dai is a Staff Research Scientist at Google DeepMind. Her research interests lie in large language models, information retrieval, and machine learning. Recently, her work has concentrated on developing generalizable and capable neural retrieval models, enhancing large language model factuality, and advancing instruction fine-tuning techniques. Additionally, Zhuyun actively contributes to the organizational community of various conferences in these fields. 
 
