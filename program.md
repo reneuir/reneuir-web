@@ -45,12 +45,13 @@ Each paper is given 15 minutes for presentation including Q&A.
 
 - "Contrasting Pointwise with Listwise Re-Rankers"
   Ferdinand Schlatt, Harrisen Scells.
+  
+  - "Fine-Tuning LLaMA for Multi-Stage Text Retrieval"
+  Xueguang Ma, Liang Wang, Nan Yang, Furu Wei, and Jimmy Lin.
 
 - "Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models"
   Shengyao Zhuang, Honglei Zhuang, Bevan Koopman, and Guido Zuccon.
 
-- "Fine-Tuning LLaMA for Multi-Stage Text Retrieval"
-  Xueguang Ma, Liang Wang, Nan Yang, Furu Wei, and Jimmy Lin.
 
 - "PLAID SHIRTTT for Large-Scale Streaming Dense Retrieval"
   Dawn Lawrie, Efsun Kayi, Eugene Yang, James Mayfield, Douglas W. Oard.
