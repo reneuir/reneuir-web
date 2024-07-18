@@ -40,20 +40,20 @@ Each paper is given 15 minutes for presentation including Q&A.
 
 Each paper is given 15 minutes for presentation including Q&A.
 
-- "Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models"
-  Shengyao Zhuang, Honglei Zhuang, Bevan Koopman, and Guido Zuccon.
+- "A Reproducibility Study of PLAID"
+  Sean MacAvaney, Nicola Tonellotto.
 
 - "Contrasting Pointwise with Listwise Re-Rankers"
   Ferdinand Schlatt, Harrisen Scells.
+
+- "Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models"
+  Shengyao Zhuang, Honglei Zhuang, Bevan Koopman, and Guido Zuccon.
 
 - "Fine-Tuning LLaMA for Multi-Stage Text Retrieval"
   Xueguang Ma, Liang Wang, Nan Yang, Furu Wei, and Jimmy Lin.
 
 - "PLAID SHIRTTT for Large-Scale Streaming Dense Retrieval"
   Dawn Lawrie, Efsun Kayi, Eugene Yang, James Mayfield, Douglas W. Oard.
-
-- "A Reproducibility Study of PLAID"
-  Sean MacAvaney, Nicola Tonellotto.
 
 - "Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations"
   Sebastian Bruch, Franco Maria Nardini, Cosimo Rulli, and Rossano Venturini.
