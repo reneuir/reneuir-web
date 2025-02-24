@@ -6,13 +6,10 @@ the single column [CEUR-ART paper style](https://ceurws.wordpress.com/2020/03/31
 
 Use the following bibstrip information:
 ```
-\copyrightyear{2024}
-% CC-BY is default license.
-\copyrightclause{Copyright for this paper by its authors. Use permitted under Creative Commons License Attribution 4.0 International (CC BY 4.0).}
-\conference{ReNeuIR 2024 (at SIGIR 2024) -- 3rd Workshop on Reaching Efficiency in Neural Information Retrieval, 18 July, 2024, Washington D.C, USA}
+TBD
 ```
 
-Please upload these to [EasyChair](https://easychair.org/conferences/?conf=reneuir2024) by Friday July 5, 2024.
+Please upload these to [EasyChair](https://easychair.org/conferences/?conf=reneuir2025) by **TBD**.
 
 ## Paper Presentations
 Each paper will be allocated a 15 minute slot including questions; we suggest a 10+5 or a 12+3 arrangement.

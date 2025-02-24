@@ -1,13 +1,13 @@
 # Call for Papers
 
-The third workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) will be held at SIGIR 2024 in Washington.
+The third workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) will be held at SIGIR 2025 in Padua.
 
 ## Topics of Interest
 
-We welcome both "full" and "poster" submissions on the following topics,
+We welcomes "full" submissions on the following topics,
 including but not limited to:
 
-* [ReNeuIR 2024 will host an efficiency oriented shared task](shared_task.html), all participants are invited to submit papers describing their approches and evaluating them.
+* [ReNeuIR 2025 will host an efficiency oriented shared task](shared_task.html), all participants are invited to submit papers describing their approches and evaluating them.
 * Novel Neural IR (NIR) models that reach competitive quality but are designed to provide fast training or fast inference;
 * Efficient NIR models for decentralized IR tasks such as conversational search; 
 * Strategies to speed up training or inference of existing NIR models; 
@@ -38,18 +38,18 @@ and judged on the basis of their relevance to the theme of the workshop and the 
 their technical contribution. All accepted papers will be published in the workshop
 proceedings (CEUR proceedings).
 
-Submissions should be made electronically via [EasyChair](https://easychair.org/conferences/?conf=reneuir2024).
+Submissions should be made electronically via [EasyChair](https://easychair.org/conferences/?conf=reneuir2025).
 
 ## Important Dates
 
-Submission deadline: ~~**May 15, 2024**~~ **May 22, 2024**
+Submission deadline: **TBD**
 
-Notification of acceptance: **June 7, 2024**
+Notification of acceptance: **TBD**
 
-Workshop: **July 18, 2024**
+Workshop: **TBD**
 
 All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
 ## Contact
 For any questions please do not hesitate to contact us via [the forum](https://www.tira.io/c/reneuir)
-or via mail at reneuir2024 [at] easychair [dot] org.
+or via mail at reneuir2025 [at] easychair [dot] org.
