@@ -1,6 +1,6 @@
 # Shared Task
 
-ReNeuIR 2025 hosts a shared task to foster the development of efficient neural IR systems.
+ReNeuIR 2024 hosts a shared task to foster the development of efficient neural IR systems.
 
 ## Synopsis
 
@@ -14,11 +14,11 @@ After the shared task, we will make all collected run files together with Scapha
 
 Submissions to the shared task form part of the workshop. We will have an oral presentation deadline before the workshop so that approaches submitted by that deadline can present their submissions at the workshop, and a final proceedings deadline that welcomes existing and potentially new submissions after the workshop that will be included in the workshop proceedings.
 
-Oral Presentation deadline: **TBD**
+Oral Presentation deadline: **June 26, 2024**
 
-Workshop: **TBD**
+Workshop: **July 18, 2024**
 
-Final Proceedings Deadline: **TBD**
+Final Proceedings Deadline: **July 31, 2024**
 
 All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
@@ -28,9 +28,9 @@ We encourage submissions that implement a pipeline with the steps (1) index, (2)
 
 ## Submission Instructions
 
-We will use TIREx for submissions. Submissions are open at [https://www.tira.io/task-overview/reneuir-2025](https://www.tira.io/task-overview/reneuir-2025). We provide a [step-by-step tutorial on how to submit](https://github.com/reneuir/reneuir-code/blob/main/sigir25/tutorials) and a [set of baselines](https://github.com/reneuir/reneuir-code/tree/main/sigir25/baselines). Please do not hesitate to contact us in case of questions and/or problems.
+We will use TIREx for submissions. Submissions are open at [https://www.tira.io/task-overview/reneuir-2024](https://www.tira.io/task-overview/reneuir-2024). We provide a [step-by-step tutorial on how to submit](https://github.com/reneuir/reneuir-code/blob/main/sigir24/tutorials) and a [set of baselines](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines). Please do not hesitate to contact us in case of questions and/or problems.
 
 ## Contact
 
 For any questions please do not hesitate to contact us via [the forum](https://www.tira.io/c/reneuir)
-or via mail at reneuir2025 [at] easychair [dot] org.
+or via mail at reneuir2024 [at] easychair [dot] org.
