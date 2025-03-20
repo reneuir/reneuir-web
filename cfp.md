@@ -42,11 +42,15 @@ Submissions should be made electronically via [EasyChair](https://easychair.org/
 
 ## Important Dates
 
-Submission deadline: **TBD**
+Paper Submission deadline: **May 20, 2025**
 
-Notification of acceptance: **TBD**
+Notification of acceptance: **June 10, 2025**
 
-Workshop: **TBD**
+Shared task deadline: **July 8, 2025**
+
+Workshop (co-located with SIGIR 2025 in Padua): **July 17**
+
+Final Proceedings Deadline: **July 29, 2025** (yes, after the conference)
 
 All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
