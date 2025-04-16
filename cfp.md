@@ -1,6 +1,6 @@
 # Call for Papers
 
-The third workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) will be held at SIGIR 2025 in Padua.
+The fourth workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) will be held at SIGIR 2025 in Padua.
 
 ## Topics of Interest
 
