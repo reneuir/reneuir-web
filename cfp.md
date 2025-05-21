@@ -42,9 +42,9 @@ Submissions should be made electronically via [EasyChair](https://easychair.org/
 
 ## Important Dates
 
-Paper Submission deadline: **May 20, 2025**
+Paper Submission deadline (extended): **June 10, 2025** (was May 20)
 
-Notification of acceptance: **June 10, 2025**
+Notification of acceptance: **June 17, 2025** (was June 10)
 
 Shared task deadline: **July 8, 2025**
 
