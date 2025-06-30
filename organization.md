@@ -11,10 +11,6 @@
 
 **Martin Potthast** is Chair of Deep Semantic Learning at the University of Kassel, Germany.
 
-## Program Committee
-
-TBA
-
 ## Logo Design
 
 **Beatrice Rapisarda** (ISTI-CNR)
