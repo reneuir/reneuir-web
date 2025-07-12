@@ -36,7 +36,7 @@ We have two long papers and one short paper and one invited paper:
 We have four invited papers (each with 10 minutes + 5 minutes QA):
 
 - 2D Matryoshka Training for Information Retrieval.
-- Search Efficiency for Score-at-a-Time Retrieval.
+- Efficiency of First-Stage Retrieval.
 - Efficient Approximate Nearest Neighbor Search on a Raspberry Pi.
 - TITE: Token-Independent Text Encoder for Information Retrieval.
 
