@@ -36,7 +36,7 @@ We have two long papers and one short paper and one invited paper:
 We have four invited papers (each with 10 minutes + 5 minutes QA):
 
 - 2D Matryoshka Training for Information Retrieval.
-- Efficiency of First-Stage Retrieval.
+- [Efficiency of First-Stage Retrieval](/assets/slides/harlan25-efficiency-of-first-stage-retrieval.pdf).
 - Efficient Approximate Nearest Neighbor Search on a Raspberry Pi.
 - [An Alternative to FLOPS Regularization to Effectively Productionize SPLADE-Doc](/assets/slides/porco25-an-alternative-to-flops-regularization-to-effectively-productionize-splade-doc.pdf).
 - TITE: Token-Independent Text Encoder for Information Retrieval.
