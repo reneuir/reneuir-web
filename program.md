@@ -20,8 +20,8 @@ ReNeuIR is colocated with [SIGIR 2025 in Padua, Italy](https://sigir2025.dei.uni
 
 We will have two talks (10 minutes + 5 minutes QA):
 
-- Resource Tracking in IR Experiments
-- A Proposal for an LSR-Benchmark
+- [Resource Tracking in IR Experiments](/assets/slides/hagen25-tirex-tracker.pdf)
+- [A Proposal for an LSR-Benchmark](https://downloads.webis.de/talks/froebe_2025e.pdf)
 
 ## Detailed Schedule for the First Paper Presentation Session (11:00 - 12:30)
 
