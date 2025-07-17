@@ -9,9 +9,9 @@ ReNeuIR is colocated with [SIGIR 2025 in Padua, Italy](https://sigir2025.dei.uni
 | 10:00 - 10:30 | Shared Task Initiative and Collaborative Experiments                      |
 | 10:30 - 11:00 | Coffee Break                                                              |
 | 11:00 - 12:30 | Paper presentations                                                       |
-| 12:30 - 13:30 | Lunch Break                                                               |
-| 13:30 - 14:15 | Keynote by [Nicola Tonellotto](/invited_speakers)                         |
-| 14:15 - 15:30 | Paper Session                                                             |
+| 12:30 - 14:30 | Lunch Break + Poster                                                      |
+| 14:30 - 15:15 | Keynote by [Nicola Tonellotto](/invited_speakers)                         |
+| 15:15 - 15:30 | Paper Session                                                             |
 | 15:30 - 16:00 | Coffee Break                                                              |
 | 16:00 - 17:30 | Collab-a-thon and Concluding Remarks                                      |
 
