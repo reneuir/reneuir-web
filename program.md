@@ -30,7 +30,7 @@ We have two long papers and one short paper and one invited paper:
 - Junru Wu, Le Yan, Zhen Qin, Honglei Zhuang, Paul Suganthan G.C., Tianqi Liu, Zhe Dong, Xuanhui Wang, Harrie Oosterhuis. **Harnessing Pairwise Ranking Prompting Through Sample-Efficient Ranking Distillation**. (10 minutes + 5 minutes QA)
 - Mathew Jacob, Erik Lindgren, Matei Zaharia, Michael Carbin, Omar Khattab, Andrew Drozdov. **Drowning in Documents: Consequences of Scaling Reranker Inference**. (20 minutes + 10 minutes QA)
 - Wondo Rhee, Chan Lim, Taewon Yoon, Gyuhyeon Choi, Jooyoung LeeColPruner. **Combining Complementary Pruning Approaches for ColBERT in Web Search**. (20 minutes + 10 minutes QA)
-- Julian Killingback, Hansi Zeng, Hamed Zamani. From Vector Representations to Neural Representations: Learned Query-Specific Relevance Functions (10 minutes + 5 minutes QA)
+- Julian Killingback, Hansi Zeng, Hamed Zamani. **From Vector Representations to Neural Representations: Learned Query-Specific Relevance Functions**. (10 minutes + 5 minutes QA)
 
 ## Detailed Schedule for the Second Paper Presentation Session (15:15 - 15:30)
 
