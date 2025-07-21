@@ -13,7 +13,8 @@ ReNeuIR is colocated with [SIGIR 2025 in Padua, Italy](https://sigir2025.dei.uni
 | 14:30 - 15:15 | Keynote by [Nicola Tonellotto](/invited_speakers)                         |
 | 15:15 - 15:30 | Paper Session                                                             |
 | 15:30 - 16:00 | Coffee Break                                                              |
-| 16:00 - 17:30 | Collab-a-thon and Concluding Remarks                                      |
+| 16:00 - 16:45 | Paper Session                                                             |
+| 16:45 - 17:30 | Collab-a-thon and Concluding Remarks                                      |
 
 
 ## Detailed Schedule for the Session on the Shared Task Initiative and Collaborative Experiments (11:15 - 15:30)
@@ -31,15 +32,21 @@ We have two long papers and one short paper and one invited paper:
 - ColPruner: Combining Complementary Pruning Approaches for ColBERT in Web Search (20 minutes + 10 minutes QA)
 - From Vector Representations to Neural Representations: Learned Query-Specific Relevance Functions (10 minutes + 5 minutes QA)
 
-## Detailed Schedule for the Second Paper Presentation Session (14:15 - 15:30)
+## Detailed Schedule for the Second Paper Presentation Session (15:15 - 15:30)
 
 We have four invited papers (each with 10 minutes + 5 minutes QA):
 
 - 2D Matryoshka Training for Information Retrieval.
 - [Efficiency of First-Stage Retrieval](/assets/slides/harlan25-efficiency-of-first-stage-retrieval.pdf).
+
+## Detailed Schedule for the Second Paper Presentation Session (16:00 - 16:45)
+
+We have four invited papers (each with 10 minutes + 5 minutes QA):
+
 - Efficient Approximate Nearest Neighbor Search on a Raspberry Pi.
 - [An Alternative to FLOPS Regularization to Effectively Productionize SPLADE-Doc](/assets/slides/porco25-an-alternative-to-flops-regularization-to-effectively-productionize-splade-doc.pdf).
 - TITE: Token-Independent Text Encoder for Information Retrieval.
+
 
 ## Collab-a-thon Session (16:00 - 17:30)
 
