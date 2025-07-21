@@ -36,8 +36,8 @@ We have two long papers and one short paper and one invited paper:
 
 We have four invited papers (each with 10 minutes + 5 minutes QA):
 
-- 2D Matryoshka Training for Information Retrieval.
-- [Efficiency of First-Stage Retrieval](/assets/slides/harlan25-efficiency-of-first-stage-retrieval.pdf).
+- Shuai Wang, Shengyao Zhuang, Bevan Koopman, Guido Zuccon. **2D Matryoshka Training for Information Retrieval**.
+- [**Efficiency of First-Stage Retrieval**](/assets/slides/harlan25-efficiency-of-first-stage-retrieval.pdf).
 
 ## Detailed Schedule for the Second Paper Presentation Session (16:00 - 16:45)
 
