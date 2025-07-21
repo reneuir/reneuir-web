@@ -27,9 +27,9 @@ We will have two talks (10 minutes + 5 minutes QA):
 ## Detailed Schedule for the First Paper Presentation Session (11:00 - 12:30)
 
 We have two long papers and one short paper and one invited paper:
-- Harnessing Pairwise Ranking Prompting Through Sample-Efficient Ranking Distillation (10 minutes + 5 minutes QA)
-- Drowning in Documents: Consequences of Scaling Reranker Inference (20 minutes + 10 minutes QA)
-- ColPruner: Combining Complementary Pruning Approaches for ColBERT in Web Search (20 minutes + 10 minutes QA)
+- Junru Wu, Le Yan, Zhen Qin, Honglei Zhuang, Paul Suganthan G.C., Tianqi Liu, Zhe Dong, Xuanhui Wang and Harrie Oosterhuis. **Harnessing Pairwise Ranking Prompting Through Sample-Efficient Ranking Distillation**. (10 minutes + 5 minutes QA)
+- Mathew Jacob, Erik Lindgren, Matei Zaharia, Michael Carbin, Omar Khattab and Andrew Drozdov. **Drowning in Documents: Consequences of Scaling Reranker Inference**. (20 minutes + 10 minutes QA)
+- Wondo Rhee, Chan Lim, Taewon Yoon, Gyuhyeon Choi and Jooyoung LeeColPruner. **Combining Complementary Pruning Approaches for ColBERT in Web Search**. (20 minutes + 10 minutes QA)
 - From Vector Representations to Neural Representations: Learned Query-Specific Relevance Functions (10 minutes + 5 minutes QA)
 
 ## Detailed Schedule for the Second Paper Presentation Session (15:15 - 15:30)
@@ -43,7 +43,7 @@ We have four invited papers (each with 10 minutes + 5 minutes QA):
 
 We have four invited papers (each with 10 minutes + 5 minutes QA):
 
-- Efficient Approximate Nearest Neighbor Search on a Raspberry Pi.
+- Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini. **Efficient Approximate Nearest Neighbor Search on a Raspberry Pi**.
 - [An Alternative to FLOPS Regularization to Effectively Productionize SPLADE-Doc](/assets/slides/porco25-an-alternative-to-flops-regularization-to-effectively-productionize-splade-doc.pdf).
 - TITE: Token-Independent Text Encoder for Information Retrieval.
 
