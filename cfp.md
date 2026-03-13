@@ -38,7 +38,7 @@ and judged on the basis of their relevance to the theme of the workshop and the 
 their technical contribution. All accepted papers will be published in the workshop
 proceedings (CEUR proceedings).
 
-Submissions should be made electronically via [EasyChair](https://easychair.org/conferences/?conf=reneuir2025).
+Submissions should be made electronically via [EasyChair](https://easychair.org/conferences/?conf=reneuir2026).
 
 ## Important Dates
 

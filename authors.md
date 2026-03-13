@@ -9,7 +9,7 @@ Use the following bibstrip information:
 TBD
 ```
 
-Please upload these to [EasyChair](https://easychair.org/conferences/?conf=reneuir2025) by **TBD**.
+Please upload these to [EasyChair](https://easychair.org/conferences/?conf=reneuir2026) by **TBD**.
 
 ## Paper Presentations
 Each paper will be allocated a 15 minute slot including questions; we suggest a 10+5 or a 12+3 arrangement.
