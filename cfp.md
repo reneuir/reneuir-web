@@ -1,13 +1,13 @@
 # Call for Papers
 
-The fourth workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) will be held at SIGIR 2025 in Padua.
+The fifth workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) will be held at SIGIR 2026 in Melbourne.
 
 ## Topics of Interest
 
 We welcomes "full" submissions on the following topics,
 including but not limited to:
 
-* [ReNeuIR 2025 will host an efficiency oriented shared task](shared_task.html), all participants are invited to submit papers describing their approches and evaluating them.
+* [ReNeuIR 2026 will host an efficiency oriented shared task](shared_task.html), all participants are invited to submit papers describing their approches and evaluating them.
 * Novel Neural IR (NIR) models that reach competitive quality but are designed to provide fast training or fast inference;
 * Efficient NIR models for decentralized IR tasks such as conversational search; 
 * Strategies to speed up training or inference of existing NIR models; 
@@ -42,18 +42,18 @@ Submissions should be made electronically via [EasyChair](https://easychair.org/
 
 ## Important Dates
 
-Paper Submission deadline (extended): **June 10, 2025** (was May 20)
+Paper Submission deadline: **TBD**
 
-Notification of acceptance: **June 17, 2025** (was June 10)
+Notification of acceptance: **TBD**
 
-Shared task deadline: **July 8, 2025**
+Shared task deadline: **TBD**
 
-Workshop (co-located with SIGIR 2025 in Padua): **July 17**
+Workshop (co-located with SIGIR 2026 in Melbourne): **July 24**
 
-Final Proceedings Deadline: **July 29, 2025** (yes, after the conference)
+Final Proceedings Deadline: **TBD** (yes, after the conference)
 
 All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
 ## Contact
 For any questions please do not hesitate to contact us via [the forum](https://www.tira.io/c/reneuir)
-or via mail at reneuir2025 [at] easychair [dot] org.
+or via mail at reneuir2026 [at] easychair [dot] org.

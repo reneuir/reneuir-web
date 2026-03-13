@@ -1,11 +1,11 @@
 remote_theme: BDHU/minimalist
-logo: /assets/img/2025-logo.png
+logo: /assets/img/2026-logo.png
 plugins:
   - jekyll-remote-theme
   - jekyll-optional-front-matter
   - jekyll-default-layout
 color-scheme: auto
-title: ReNeuIR'25
+title: ReNeuIR'26
 description: Workshop on Reaching Efficiency in Neural Information Retrieval
 show_downloads: false
 
