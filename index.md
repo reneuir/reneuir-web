@@ -1,6 +1,6 @@
-![logo](/assets/img/2025-logo.png)
+![logo](/assets/img/2026-logo.png)
 
-The fourth ReNeuIR Workshop will be co-located with ACM SIGIR in Padua, Italy, in July 2025. The 2025 edition of ReNeuIR has two calls: (1) for [scientific contributions](cfp.html), and (2) an [efficiency-oriented IR shared task](shared_task.html). The event aims to foster discussion and collaboration on holistic evaluation of methods in the age of neural information retrieval (NIR), noting that efficacy matters but so does the computational cost incurred to achieve it. In particular, the workshop promotes the following notions and encourages the community to raise and debate questions on the following themes:
+The fifth ReNeuIR Workshop will be co-located with ACM SIGIR in Padua, Italy, in July 2025. The 2025 edition of ReNeuIR has two calls: (1) for [scientific contributions](cfp.html), and (2) an [efficiency-oriented IR shared task](shared_task.html). The event aims to foster discussion and collaboration on holistic evaluation of methods in the age of neural information retrieval (NIR), noting that efficacy matters but so does the computational cost incurred to achieve it. In particular, the workshop promotes the following notions and encourages the community to raise and debate questions on the following themes:
 
 
 * **Justification**: We believe it is important to justify the ever-growing model complexity through empirical analysis.
@@ -26,3 +26,5 @@ For information on past ReNeuIR workshops, visit the links below:
 [Proposal](https://doi.org/10.1145/3539618.3591922)]
 * ReNeuIR 2024 at SIGIR in Washington D.C., USA [[Homepage](/2024/),
 [Proposal](https://dl.acm.org/doi/10.1145/3626772.3657994)]
+* ReNeuIR 2025 at SIGIR in Padova, Italy [[Homepage](/2025/),
+[Proposal](https://dl.acm.org/doi/abs/10.1145/3726302.3730358)]
