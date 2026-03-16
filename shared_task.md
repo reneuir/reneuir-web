@@ -1,6 +1,6 @@
 # Shared Task
 
-ReNeuIR 2025 hosts a shared task to foster the development of efficient neural IR systems.
+ReNeuIR 2026 hosts a shared task to foster the development of efficient neural IR systems.
 
 ## Synopsis
 
@@ -8,11 +8,11 @@ The shared task invites the submission of retrieval pipelines (or parts thereof)
 
 More specifically, TIRA runs submitted retrieval pipelines on datasets derived from the MS MARCO passage dataset. To simulate different workloads, the number of queries and passages to be indexed are varied. By reusing the MS MARCO passage dataset, we lower the barrier to entry, as many retrieval systems already exist for this test collection, allowing participants to focus on efficiency. With this in mind, for the first iteration of the shared task in 2024, we focus on submitting pre-trained systems that batch-process the entire dataset.
 
-After the shared task, we will make all collected run files together with Scaphandre traces of their execution available to foster the development of new performance measures that incorporate efficiency and effectiveness.
+After the shared task, we will make all collected run files, together with Scaphandre traces of their execution, available to foster the development of new performance measures that incorporate efficiency and effectiveness.
 
 ## Important Dates
 
-Submissions to the shared task form part of the workshop. We will have an oral presentation deadline before the workshop so that approaches submitted by that deadline can present their submissions at the workshop, and a final proceedings deadline that welcomes existing and potentially new submissions after the workshop that will be included in the workshop proceedings.
+Submissions to the shared task form part of the workshop. We will have an oral presentation deadline before the workshop so that approaches submitted by that deadline can present their submissions at the workshop, and a final proceedings deadline that welcomes existing and potentially new submissions after the workshop, which will be included in the workshop proceedings.
 
 Oral Presentation deadline: **TBD**
 
@@ -24,7 +24,7 @@ All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
 ## Baselines
 
-We encourage submissions that implement a pipeline with the steps (1) index, (2) retrieve, (3) and re-rank, where participants can also submit only parts of a complete pipeline (e.g., indexing and retrieval vs. re-ranking). We make [baselines available](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines), specifically for (1) indexing, (2) retrieval, and (3) re-ranking.
+We encourage submissions that implement a pipeline with the steps (1) index, (2) retrieve, and (3) re-rank, where participants can also submit only parts of a complete pipeline (e.g., indexing and retrieval vs. re-ranking). We make [baselines available](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines), specifically for (1) indexing, (2) retrieval, and (3) re-ranking.
 
 ## Submission Instructions
 
@@ -32,5 +32,5 @@ We will use TIREx for submissions. Submissions are open at [https://www.tira.io/
 
 ## Contact
 
-For any questions please do not hesitate to contact us via [the forum](https://www.tira.io/c/reneuir)
-or via mail at reneuir2025 [at] easychair [dot] org.
+For any questions, please do not hesitate to contact us via [the forum](https://www.tira.io/c/reneuir)
+or via mail at reneuir2026 [at] easychair [dot] org.
