@@ -26,5 +26,5 @@ For information on past ReNeuIR workshops, visit the links below:
 [Proposal](https://doi.org/10.1145/3539618.3591922)]
 * ReNeuIR 2024 at SIGIR in Washington D.C., USA [[Homepage](/2024/),
 [Proposal](https://dl.acm.org/doi/10.1145/3626772.3657994)]
-* ReNeuIR 2025 at SIGIR in Padova, Italy [[Homepage](/2025/),
+* ReNeuIR 2025 at SIGIR in Padua, Italy [[Homepage](/2025/),
 [Proposal](https://dl.acm.org/doi/abs/10.1145/3726302.3730358)]
