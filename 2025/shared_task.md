@@ -28,7 +28,7 @@ We encourage submissions that implement a pipeline with the steps (1) index, (2)
 
 ## Submission Instructions
 
-We will use TIREx for submissions. Submissions are open at [https://www.tira.io/task-overview/reneuir-2025](https://www.tira.io/task-overview/reneuir-2025). We provide a [step-by-step tutorial on how to submit](https://github.com/reneuir/reneuir-code/blob/main/sigir25/tutorials) and a [set of baselines](https://github.com/reneuir/reneuir-code/tree/main/sigir25/baselines). Please do not hesitate to contact us in case of questions and/or problems.
+We will use TIREx for submissions. Submissions are open at [https://www.tira.io/task-overview/reneuir-2025](https://www.tira.io/task-overview/reneuir-2025). We provide a [step-by-step tutorial on how to submit](https://github.com/reneuir/reneuir-code/blob/main/sigir25/tutorials) and a [set of baselines](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines). Please do not hesitate to contact us in case of questions and/or problems.
 
 ## Contact
 
