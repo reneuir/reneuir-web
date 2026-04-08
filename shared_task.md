@@ -4,11 +4,36 @@ ReNeuIR 2026 hosts a shared task to foster the development of efficient neural I
 
 ## Synopsis
 
-The shared task invites the submission of retrieval pipelines (or parts thereof) that implement the following basic steps (1) index, (2) retrieve, (3) and re-rank. Participants can submit their retrieval pipelines as source code repositories or Docker images. We encourage code submissions where participants organize their code in (private) GitHub repositories. Submitted pipelines are then executed automatically with different workloads sampled from [ir_datasets](https://ir-datasets.com/), using [TIRA](https://www.tira.io) / [TIREx](https://www.tira.io/tirex) and [Scaphandre](https://github.com/hubblo-org/scaphandre) to measure both their effectiveness and efficiency.
+Using the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark) that was developed in the previous iterations of ReNeuIR, we aim to run a large set of efficient neural retrieval systems on diverse hardware to enable IR evaluations that account for efficiency and effectiveness. All executions are tracked with the [TIREx tracker](https://github.com/tira-io/tirex-tracker) that persists efficiency metrics into the [ir_metadata format](https://www.ir-metadata.org/) so that the result of the shared task is a big collection of run files (for effectiveness evaluations) with their ir_metadata (for efficiency evaluations). We have three subtasks (1) efficiency measurements on diverse hardware, (2) neural embedding models, and (3) efficient retrieval systems.
 
-More specifically, TIRA runs submitted retrieval pipelines on datasets derived from the MS MARCO passage dataset. To simulate different workloads, the number of queries and passages to be indexed are varied. By reusing the MS MARCO passage dataset, we lower the barrier to entry, as many retrieval systems already exist for this test collection, allowing participants to focus on efficiency. With this in mind, for the first iteration of the shared task in 2024, we focus on submitting pre-trained systems that batch-process the entire dataset.
+## Task 1: Efficiency Measurements on Diverse Hardware
 
-After the shared task, we will make all collected run files, together with Scaphandre traces of their execution, available to foster the development of new performance measures that incorporate efficiency and effectiveness.
+Do you have a computer that is idle for ca. 15 hours with Docker/Podman installed? Then please consider to participate in task 1 by running the lsr-benchmark suite. All embeddings are pre-computed and the retrieval engines are dockerized. We plan to support x86_64 and ARM64 processors (ARM64 is in progress). You can verify if your machine is supported via (**attention, this is not yet published to pypi**)):
+
+```
+pip3 install lsr-benchmark
+lsr-benchmark verify-installation
+```
+
+The output should look like this:
+
+You can interrupt the process in between, etc...
+
+```
+lsr-benchmark run-retrieval-experiment reneuir-2026/full --output my-reneuir-2026-results
+```
+
+
+### Task 1 Submission Instructions
+
+**TBD.**
+
+## Task 2: Neural Embedding Models
+
+We aim to collect diverse embedding models into the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark). 
+
+
+We plan to maintain the lsr-benchmark as a mono-repo, so that . The structure of new embedding models should be similar to existing ones. For instance, see the [lightning-ir](https://github.com/reneuir/lsr-benchmark/tree/main/step-02-embedding-approaches/lightning-ir), [lexical](https://github.com/reneuir/lsr-benchmark/tree/main/step-02-embedding-approaches/lexical)
 
 ## Important Dates
 
@@ -22,13 +47,7 @@ Final Proceedings Deadline: **TBD**
 
 All deadlines are 11.59 pm UTC -12h (“Anywhere on Earth”).
 
-## Baselines
 
-We encourage submissions that implement a pipeline with the steps (1) index, (2) retrieve, and (3) re-rank, where participants can also submit only parts of a complete pipeline (e.g., indexing and retrieval vs. re-ranking). We make [baselines available](https://github.com/reneuir/reneuir-code/tree/main/sigir24/baselines), specifically for (1) indexing, (2) retrieval, and (3) re-ranking.
-
-## Submission Instructions
-
-We will use TIREx for submissions. Submissions are open at [https://www.tira.io/task-overview/reneuir-2025](https://www.tira.io/task-overview/reneuir-2025). We provide a [step-by-step tutorial on how to submit](https://github.com/reneuir/reneuir-code/blob/main/sigir25/tutorials) and a [set of baselines](https://github.com/reneuir/reneuir-code/tree/main/sigir25/baselines). Please do not hesitate to contact us in case of questions and/or problems.
 
 ## Contact
 
