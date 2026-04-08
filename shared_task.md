@@ -8,7 +8,7 @@ Using the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark) that was dev
 
 ## Task 1: Efficiency Measurements on Diverse Hardware
 
-Do you have a computer that is idle for ca. 15 hours with Docker/Podman installed? Then please consider to participate in task 1 by running the lsr-benchmark suite. All embeddings are pre-computed and the retrieval engines are dockerized. We plan to support x86_64 and ARM64 processors (ARM64 is in progress). You can verify if your machine is supported via (**attention, this is not yet published to pypi**)):
+Do you have a computer that is idle for ca. 15 hours with Docker/Podman installed? Then please consider to participate in task 1 by running the lsr-benchmark suite. All embeddings are pre-computed and the retrieval engines are dockerized. We plan to support x86_64 and ARM64 processors (ARM64 is in progress). You can verify if your machine is supported via (**attention, this is not yet published to pypi**):
 
 ```
 pip3 install lsr-benchmark
@@ -17,16 +17,23 @@ lsr-benchmark verify-installation
 
 The output should look like this:
 
-You can interrupt the process in between, etc...
+<img width="1909" height="416" alt="Screenshot_20260408_185039" src="https://github.com/user-attachments/assets/20f014ab-70d8-47f8-80a2-2e1330acab1d" />
+
+For participants of task 1, our idea is that each participant runs the same benchmarks on his/her hardware and sends back the run files (that contain the efficiency measures in the ir_metadata format). The full benchmark suite is estimated to take ca. 15 hours and requires ca. 50 GB of disk space (embeddings + docker images), you can interrupt the process in between and continue the benchmark later if you wish. You can run the full benchmark via (**attention, this is not yet published to pypi**):
 
 ```
 lsr-benchmark run-retrieval-experiment reneuir-2026/full --output my-reneuir-2026-results
 ```
 
+To run the efficiency/effectiveness oriented evaluation on your results, please run (assuming you have stored your results in `my-reneuir-2026-results` as in the execution above):
+
+```
+lsr-benchmark evaluate my-reneuir-2026-results
+```
 
 ### Task 1 Submission Instructions
 
-**TBD.**
+**TBD**: We will ask to upload the run files.
 
 ## Task 2: Neural Embedding Models
 
