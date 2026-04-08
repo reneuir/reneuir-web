@@ -17,7 +17,7 @@ lsr-benchmark verify-installation
 
 The output should look like this:
 
-<img width="1909" height="416" alt="Screenshot_20260408_185039" src="https://github.com/user-attachments/assets/20f014ab-70d8-47f8-80a2-2e1330acab1d" />
+<img width="900" alt="Screenshot_20260408_185039" src="https://github.com/user-attachments/assets/20f014ab-70d8-47f8-80a2-2e1330acab1d" />
 
 For participants of task 1, our idea is that each participant runs the same benchmarks on his/her hardware and sends back the run files (that contain the efficiency measures in the ir_metadata format). The full benchmark suite is estimated to take ca. 15 hours and requires ca. 50 GB of disk space (embeddings + docker images), you can interrupt the process in between and continue the benchmark later if you wish. You can run the full benchmark via (**attention, this is not yet published to pypi**):
 
