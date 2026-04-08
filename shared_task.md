@@ -37,10 +37,21 @@ lsr-benchmark evaluate my-reneuir-2026-results
 
 ## Task 2: Neural Embedding Models
 
-We aim to collect diverse embedding models into the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark). 
+We aim to collect diverse embedding models into the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark). So far, we mostly have lexical and learned sparse embedding models, but we also want to incorporate more embedding models. If you have an interesting embedding model (all retrieval paradigms are encouraged!), please consider to submit this model. We maintain the lsr-benchmark as a mono-repo, so that participants of task 2 can contribute their embedding model via a pull request to the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark) repository. The structure of new embedding models is flexible, please have a look at existing embedding models such as [lightning-ir](https://github.com/reneuir/lsr-benchmark/tree/main/step-02-embedding-approaches/lightning-ir), [bge-m3](https://github.com/reneuir/lsr-benchmark/tree/main/step-02-embedding-approaches/bge-m3), or [lexical](https://github.com/reneuir/lsr-benchmark/tree/main/step-02-embedding-approaches/lexical) as starting point. If you want, we can include your embedding model into the `reneuir-2026/full` suite that is executed in Task 1.
 
 
-We plan to maintain the lsr-benchmark as a mono-repo, so that . The structure of new embedding models should be similar to existing ones. For instance, see the [lightning-ir](https://github.com/reneuir/lsr-benchmark/tree/main/step-02-embedding-approaches/lightning-ir), [lexical](https://github.com/reneuir/lsr-benchmark/tree/main/step-02-embedding-approaches/lexical)
+### Task 2 Submission Instructions
+
+Please create a pull request to the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark). You can create an early "Draft Pull Request" to indicate on what you want to work and to get early feedback.
+
+## Task 3: Efficient Retrieval Systems
+
+Is your favorite retrieval system not included in the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark)? We aim to collect diverse retrieval systems, so far, we mostly have systems that we have experience with but it would be very interesting to expand the number of included retrieval systems, so if your favorite retrieval system is not yet included, please consider to submit this retrieval system. We maintain the lsr-benchmark as a mono-repo, so that participants of task 3 can contribute their retrieval system via a pull request to the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark) repository. The structure of new retrieval systems is flexible, please have a look at existing systems such as [seismic](https://github.com/reneuir/lsr-benchmark/tree/main/step-03-retrieval-approaches/seismic), [duckdb](https://github.com/reneuir/lsr-benchmark/tree/main/step-03-retrieval-approaches/duckdb), or [pyterrier-splade-pisa](https://github.com/reneuir/lsr-benchmark/tree/main/step-03-retrieval-approaches/pyterrier-splade-pisa) as starting point. If you want, we can include your retrieval system into the `reneuir-2026/full` suite that is executed in Task 1.
+
+
+### Task 3 Submission Instructions
+
+Please create a pull request to the [lsr-benchmark](https://github.com/reneuir/lsr-benchmark). You can create an early "Draft Pull Request" to indicate on what you want to work and to get early feedback.
 
 ## Important Dates
 
