@@ -42,11 +42,11 @@ Submissions should be made electronically via [EasyChair](https://easychair.org/
 
 ## Important Dates
 
-Paper Submission deadline: **TBD**
+Paper Submission deadline: **May 27**
 
-Notification of acceptance: **TBD**
+Notification of acceptance: **June 17**
 
-Shared task deadline: **TBD**
+Shared task deadline: **July 15**
 
 Workshop (co-located with SIGIR 2026 in Melbourne): **July 24**
 
