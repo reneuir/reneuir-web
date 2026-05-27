@@ -42,9 +42,9 @@ Submissions should be made electronically via [EasyChair](https://easychair.org/
 
 ## Important Dates
 
-Paper Submission deadline: **May 27**
+Paper Submission deadline: ~~**May 27**~~ **June 10**
 
-Notification of acceptance: **June 17**
+Notification of acceptance: ~~**June 17**~~ **June 24**
 
 Shared task deadline: **July 15**
 
