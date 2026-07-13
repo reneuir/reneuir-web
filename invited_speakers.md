@@ -1,11 +1,13 @@
 # Keynote Speakers
 
-Below you find the ReNeuIR 2026 keynotes.
+We are very excited to have [Harry Scells](https://scells.me/) as keynote speaker for ReNeuIR 2026!
 
 -------
 
-## TBA
+## Harry Scells
 
 ### Title: TBA
 
 ### Abstract: TBA
+
+![HarryScells](assets/img/HarryScells.jpeg)
