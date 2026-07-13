@@ -43,6 +43,7 @@ We have three paper presentations and two invited talks:
 - TODO: FM-Poster-1
 - TODO: FM-Poster-2
 - Tuan-Luc Huynh : Efficient Continual Adaptation of Generative Retrieval Systems over Dynamic Corpora
+- Maik Fröbe: Efficiency-Oriented Shared Task...
 
 ## Detailed Schedule for the Invited Talks Session (14:00 - 15:00)
 
