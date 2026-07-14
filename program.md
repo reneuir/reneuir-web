@@ -8,11 +8,11 @@ ReNeuIR is colocated with [SIGIR 2026 in Melbourne, Australia](https://sigir2026
 | 09:15 - 10:00 | Keynote by [Harry Scells](/invited_speakers)                              |
 | 10:00 - 10:30 | Invited Talks I                                                           |
 | 10:30 - 11:00 | Coffee Break                                                              |
-| 11:00 - 12:30 | Paper presentations I                                                     |
+| 11:00 - 12:30 | Paper Presentations I                                                     |
 | 12:30 - 14:00 | Lunch Break + Posters                                                     |
 | 14:00 - 15:00 | Invited Talks II                                                          |
 | 15:00 - 15:30 | Coffee Break                                                              |
-| 15:30 - 17:00 | Paper presentations II                                                    |
+| 15:30 - 17:00 | Paper Presentations II                                                    |
 
 
 ## Detailed Schedule for the Invited Talks I Session (10:00 - 10:30)
