@@ -1,9 +1,6 @@
-# Tentative Program
-
-**We are still finalizing the program, the following is only a tentative overview that still might change.**
+# Tentative Workshop Program
 
 ReNeuIR is colocated with [SIGIR 2026 in Melbourne, Australia](https://sigir2026.org/en-AU) and takes place on July 24, 2026.  All times in the table below are according to the local time zone.
-
 
 | Time          | Agenda                                                                    |
 |---------------|---------------------------------------------------------------------------|
@@ -16,7 +13,6 @@ ReNeuIR is colocated with [SIGIR 2026 in Melbourne, Australia](https://sigir2026
 | 14:00 - 15:00 | Invited Talks                                                             |
 | 15:00 - 15:30 | Coffee Break                                                              |
 | 15:30 - 17:00 | Paper presentations                                                       |
-
 
 
 ## Detailed Schedule for the Session on the Shared Task Initiative and Collaborative Experiments (10:00 - 10:30)
@@ -32,11 +28,9 @@ We have three paper presentations and two invited talks:
 
 - Harsh Peswani, Narendra Babu Unnam, Dhruv Garg and Poojan Vachharajani. **Mind the Gap: A Cheap Pre-Reranker that Predicts the Second Hop**. (15 minutes + 5 minutes QA)
 - Rahul Seetharaman, Aman Bansal, Hamed Zamani and Kaustubh Dhole. **Scaling Laws for Cross-Encoder Reranking**. (15 minutes + 5 minutes QA)
-- Anirudh Lakhotia and Nischal Helagally Shantharaju. Most MaxSim Winners Flip, Retrieval Survives: Low-Margin Substitution in Sign-Coded Late Interaction**. (15 minutes + 5 minutes QA)
-- Parker Carlson, WENTAI XIE, Rohil Devang Shah, Tao Yang: **Efficient Sparse Retrieval with Lightweight Superblock Pruning**. (10 minutes + 5 minutes QA)
+- Anirudh Lakhotia and Nischal Helagally Shantharaju. Most MaxSim Winners Flip. **Retrieval Survives: Low-Margin Substitution in Sign-Coded Late Interaction**. (15 minutes + 5 minutes QA)
+- Parker Carlson, Wentai Xie, Rohil Devang Shah, Tao Yang. **Efficient Sparse Retrieval with Lightweight Superblock Pruning**. (10 minutes + 5 minutes QA)
 - Yash Kankanampati, Yuxuan ZONG, Nadi Tomeh, Benjamin Piwowarski, Joseph Le Roux: **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**. (10 minutes + 5 minutes QA)
-
-
 
 ## Lunch Break + Posters (12:30 - 14:00)
 
