@@ -23,8 +23,8 @@ ReNeuIR is colocated with [SIGIR 2026 in Melbourne, Australia](https://sigir2026
 
 We will have two invited talks:
 
-- TODO: **FM-Talk**. (10 minutes + 5 minutes QA)
--  Arne Eichholtz, Yongkang Li, Jutte Vijverberg, Tobias Groot, Mohammad Aliannejadi: **Hypencoder Revisited: Reproducibility and Analysis of Non-Linear Scoring for First-Stage Retrieval**. (10 minutes + 5 minutes QA)
+- Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini. **Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing**. (10 minutes + 5 minutes QA)
+- Arne Eichholtz, Yongkang Li, Jutte Vijverberg, Tobias Groot, Mohammad Aliannejadi: **Hypencoder Revisited: Reproducibility and Analysis of Non-Linear Scoring for First-Stage Retrieval**. (10 minutes + 5 minutes QA)
 
 ## Detailed Schedule for the First Paper Presentation Session (11:00 - 12:30)
 
@@ -40,10 +40,10 @@ We have three paper presentations and two invited talks:
 
 ## Lunch Break + Posters (12:30 - 14:00)
 
-- TODO: FM-Poster-1
-- TODO: FM-Poster-2
-- Tuan-Luc Huynh : Efficient Continual Adaptation of Generative Retrieval Systems over Dynamic Corpora
-- Maik Fröbe: Efficiency-Oriented Shared Task...
+- Silvio Martinico: Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing
+- Franco Maria Nardini: Sparton: Fast and Memory-Efficient Triton Kernel for Learned Sparse Retrieval
+- Tuan-Luc Huynh: Efficient Continual Adaptation of Generative Retrieval Systems over Dynamic Corpora
+- Maik Fröbe: Efficiency-Oriented Shared Task
 
 ## Detailed Schedule for the Invited Talks Session (14:00 - 15:00)
 
