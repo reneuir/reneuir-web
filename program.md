@@ -46,7 +46,7 @@ We will have three invited talks:
 - Patrick Iff, Paul Brügger, Marcin Chrapek, David Kochergin, Maciej Besta, Torsten Hoefler: **Benchmarking Filtered Approximate Nearest Neighbor Search Algorithms on Transformer-based Embedding Vectors**. (10 minutes + 5 minutes QA)
 - Katelyn Harlan, Andrew Trotman, Veronica Liesaputra: **On Accumulator Management**. (10 minutes + 5 minutes QA)
 - Leonardo Kuffo, Ioanna Tsakalidou, Roberta De Viti, Albert Angel, Jiří Iša, Rastislav Lenhardt: **Semantic Recall for Vector Search**. (10 minutes + 5 minutes QA)
-- Zhichao Geng and Yang Yang: **Key Findings on Learned Sparse Retrieval Effectiveness and Efficiency**. (10 minutes + 5 minutes QA)
+- Zhichao Geng and Charlie Yang: **Key Findings on Learned Sparse Retrieval Effectiveness and Efficiency**. (10 minutes + 5 minutes QA)
 
 
 ## Detailed Schedule for the Paper Presentations II Session (15:30 - 17:00)
