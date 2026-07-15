@@ -12,7 +12,7 @@ ReNeuIR is colocated with [SIGIR 2026 in Melbourne, Australia](https://sigir2026
 | 12:30 - 14:00 | Lunch Break + Posters                                                     |
 | 14:00 - 15:00 | Invited Talks II                                                          |
 | 15:00 - 15:30 | Coffee Break                                                              |
-| 15:30 - 17:00 | Paper Presentations II                                                    |
+| 15:30 - 17:15 | Paper Presentations II                                                    |
 
 
 ## Detailed Schedule for the Invited Talks I Session (10:00 - 10:30)
@@ -49,7 +49,7 @@ We will have three invited talks:
 - Charlie Yang: **Key Findings on Learned Sparse Retrieval Effectiveness and Efficiency**. (10 minutes + 5 minutes QA)
 
 
-## Detailed Schedule for the Paper Presentations II Session (15:30 - 17:00)
+## Detailed Schedule for the Paper Presentations II Session (15:30 - 17:15)
 
 We have five paper presentations:
 
@@ -57,4 +57,4 @@ We have five paper presentations:
 - Florian Hönicke, Michael Günther, Andreas Koukounas, Mohammad Kalim Akram, Scott Martens, Saba Sturua, and Han Xiao. **jina-embeddings-v5-omni: Geometry-preserving Embeddings via Locked Aligned Towers**. (15 minutes + 5 minutes QA)
 - Irene Anu and Craig Macdonald. **Trie-based Experiment Plans for Efficient IR Pipeline Experiments**. (15 minutes + 5 minutes QA)
 - Yibo Yan, Guangwei Xu, Xin Zou, Shuliang Liu, Mingdong Ou, James Kwok, and Xuming Hu. **DocSculptor: Near-Lossless Compression of Multi-Vector Visual Document Retrieval via Adaptive Pruning**. (15 minutes + 5 minutes QA)
-- Gautham Krithiwas, Revanth Sreeram Ambati, and Joshita Gautam. **Exploring Lightweight Query Encoders for Fixed Sparse Document Indexes**. (TBD)
+- Gautham Krithiwas, Revanth Sreeram Ambati, and Joshita Gautam. **Exploring Lightweight Query Encoders for Fixed Sparse Document Indexes**. (15 minutes + 5 minutes QA)
