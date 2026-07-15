@@ -6,7 +6,7 @@ We are very excited to have [Harry Scells](https://scells.me/) as keynote speake
 
 ## Harry Scells
 
-### Title: TBA
+### Title: Parametric Information Representations
 
 ### Abstract: TBA
 
