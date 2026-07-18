@@ -34,9 +34,10 @@ We have three paper presentations and two invited talks:
 
 ## Lunch Break + Posters (12:30 - 14:00)
 
-- Silvio Martinico. **Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing**.
-- Franco Maria Nardini. **Sparton: Fast and Memory-Efficient Triton Kernel for Learned Sparse Retrieval**.
+- Silvio Martinico, Franco Maria Nardini, Cosimo Rulli, Rossano Venturini. **Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing**.
+- Thong Nguyen, Cosimo Rulli, Franco Maria Nardini, Rossano Venturini, Andrew Yates. **Sparton: Fast and Memory-Efficient Triton Kernel for Learned Sparse Retrieval**.
 - Tuan-Luc Huynh. **Efficient Continual Adaptation of Generative Retrieval Systems over Dynamic Corpora**.
+- Jingfen Qiao, Gabrielle Poerwawinata, Thong Nguyen, Jia-Huei Ju, Eugene Yang, Evangelos Kanoulas, Andrew Yates. **Better than Dense? Investigating the Natural Backward Compatibility of Learned Sparse Representations**
 - Maik Fröbe. **Efficiency-Oriented Shared Task**.
 
 ## Detailed Schedule for the Invited Talks II Session (14:00 - 15:00)
