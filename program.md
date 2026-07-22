@@ -28,7 +28,7 @@ We have three paper presentations and two invited talks:
 
 - Harsh Peswani, Narendra Babu Unnam, Dhruv Garg and Poojan Vachharajani. **Mind the Gap: A Cheap Pre-Reranker that Predicts the Second Hop**. (15 minutes + 5 minutes QA)
 - Rahul Seetharaman, Aman Bansal, Hamed Zamani and Kaustubh Dhole. **Scaling Laws for Cross-Encoder Reranking**. (15 minutes + 5 minutes QA)
-- Anirudh Lakhotia and Nischal Helagally Shantharaju. Most MaxSim Winners Flip. **Retrieval Survives: Low-Margin Substitution in Sign-Coded Late Interaction**. (15 minutes + 5 minutes QA)
+- Anirudh Lakhotia and Nischal Helagally Shantharaju. **Most MaxSim Winners Flip. Retrieval Survives: Low-Margin Substitution in Sign-Coded Late Interaction**. (15 minutes + 5 minutes QA)
 - Parker Carlson, Wentai Xie, Rohil Devang Shah, Tao Yang. **Efficient Sparse Retrieval with Lightweight Superblock Pruning**. (10 minutes + 5 minutes QA)
 - Yash Kankanampati, Yuxuan Zong, Nadi Tomeh, Benjamin Piwowarski, Joseph Le Roux: **A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**. (10 minutes + 5 minutes QA)
 
@@ -44,10 +44,10 @@ We have three paper presentations and two invited talks:
 
 We will have three invited talks:
 
-- Patrick Iff, Paul Brügger, Marcin Chrapek, David Kochergin, Maciej Besta, Torsten Hoefler: **Benchmarking Filtered Approximate Nearest Neighbor Search Algorithms on Transformer-based Embedding Vectors**. (10 minutes + 5 minutes QA)
-- Katelyn Harlan, Andrew Trotman, Veronica Liesaputra: **On Accumulator Management**. (10 minutes + 5 minutes QA)
-- Leonardo Kuffo, Ioanna Tsakalidou, Roberta De Viti, Albert Angel, Jiří Iša, Rastislav Lenhardt: **Semantic Recall for Vector Search**. (10 minutes + 5 minutes QA)
-- Charlie Yang: **Key Findings on Learned Sparse Retrieval Effectiveness and Efficiency**. (10 minutes + 5 minutes QA)
+- Patrick Iff, Paul Brügger, Marcin Chrapek, David Kochergin, Maciej Besta, Torsten Hoefler. **Benchmarking Filtered Approximate Nearest Neighbor Search Algorithms on Transformer-based Embedding Vectors**. (10 minutes + 5 minutes QA)
+- Katelyn Harlan, Andrew Trotman, Veronica Liesaputra. **On Accumulator Management**. (10 minutes + 5 minutes QA)
+- Leonardo Kuffo, Ioanna Tsakalidou, Roberta De Viti, Albert Angel, Jiří Iša, Rastislav Lenhardt. **Semantic Recall for Vector Search**. (10 minutes + 5 minutes QA)
+- Charlie Yang. **Key Findings on Learned Sparse Retrieval Effectiveness and Efficiency**. (10 minutes + 5 minutes QA)
 
 
 ## Detailed Schedule for the Paper Presentations II Session (15:30 - 17:15)
